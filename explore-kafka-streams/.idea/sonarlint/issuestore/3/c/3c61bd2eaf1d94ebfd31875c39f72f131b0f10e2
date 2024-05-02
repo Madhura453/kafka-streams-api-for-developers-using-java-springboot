@@ -1,0 +1,7 @@
+
+\
+java:S1118":Add a private constructor to hide the implicit public one.(´âùÿÿÿÿ8Ú–ĞÔ1
+X	java:S125&"<This block of commented-out lines of code should be removed.(ÙÔ§¶8Œ‚–ĞÔ1
+X	java:S125."<This block of commented-out lines of code should be removed.(í¯Åà8‚–ĞÔ1
+l
+java:S1128"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›8¯‚–ĞÔ1

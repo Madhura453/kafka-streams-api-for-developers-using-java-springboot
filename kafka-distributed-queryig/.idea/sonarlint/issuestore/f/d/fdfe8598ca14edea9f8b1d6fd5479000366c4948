@@ -1,0 +1,9 @@
+
+i
+java:S1192Ö"SDefine a constant instead of duplicating this literal "Not a Valid Option" 3 times.(âí£
+A
+java:S1168i"+Return an empty collection instead of null.(•πÔç
+A
+java:S1168~"+Return an empty collection instead of null.(•πÔç
+i
+java:S6204”"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(™ô®π

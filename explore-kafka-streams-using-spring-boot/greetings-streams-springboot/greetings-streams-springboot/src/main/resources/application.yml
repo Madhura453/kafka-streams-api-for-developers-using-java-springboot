@@ -1,0 +1,25 @@
+spring:
+  application:
+    name: greeting-kafka-streams
+  profiles:
+    active: local
+
+
+---
+spring:
+  config:
+    activate:
+      on-profile: local
+  kafka:
+    streams:
+      bootstrap-servers: localhost:9092
+      application-id: greeting-streams-springboot
+    properties:
+      default:
+        deserialization:
+          exception:
+#            handler: org.apache.kafka.streams.errors.LogAndContinueExceptionHandler
+#             handler: com.kafka.greetingsstreamsspringboot.exceptionhandler.StreamsDeserializationErrorHandler
+        production:
+          exception:
+#            handler: com.kafka.greetingsstreamsspringboot.exceptionhandler.StreamsProductionExceptionHandler

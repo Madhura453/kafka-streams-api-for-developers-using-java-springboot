@@ -1,0 +1,13 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Џ„ЬЖ8Ї‡дЮФ1
+t
+java:S3008"WRename this field "STORES_TOPIC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ЗП†к8Ь‡дЮФ1
+X	java:S125:"<This block of commented-out lines of code should be removed.(Ы’Дї8з‡дЮФ1
+]	java:S125A"<This block of commented-out lines of code should be removed.(‚­йЯшяяяя8и‡дЮФ1
+O
+java:S1172H"2Remove this unused method parameter "storesTable".(Ђ‘ињ8й‡дЮФ1
+]	java:S125J"<This block of commented-out lines of code should be removed.(ФЄоЌшяяяя8й‡дЮФ1
+O
+java:S1172e"2Remove this unused method parameter "storesTable".(Ђ‘ињ8м‡дЮФ1
+h
+java:S1144G"FRemove this unused private "aggregateOrdersCountByTimeWindows" method.(ьыФџъяяяя8с‡дЮФ1

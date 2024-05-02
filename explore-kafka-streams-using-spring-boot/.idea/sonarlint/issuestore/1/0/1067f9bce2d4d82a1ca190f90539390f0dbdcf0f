@@ -1,0 +1,14 @@
+
+o
+java:S62048"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ÃÛŒÅÕ1
+o
+java:S6204J"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ØÛŒÅÕ1
+]	java:S125Z"<This block of commented-out lines of code should be removed.(‘’›ýûÿÿÿÿ8ÛÛŒÅÕ1
+o
+java:S6204j"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ÝÛŒÅÕ1
+^
+java:S1854x"ARemove this useless assignment to local variable "orderTypeEnum".(†¿òª8ßÛŒÅÕ1
+O
+java:S1481x"2Remove this unused "orderTypeEnum" local variable.(†¿òª8àÛŒÅÕ1
+p
+java:S6204ƒ"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(„××¨8áÛŒÅÕ1

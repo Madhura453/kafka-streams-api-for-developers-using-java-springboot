@@ -1,0 +1,19 @@
+
+l
+java:S1192g"JDefine a constant instead of duplicating this literal "-by Store" 3 times.(ôˆ¹õúÿÿÿÿ8„êûşÔ1
+z
+java:S1104"XMake ORDERS_TOPIC a static final constant or non-public and provide accessors if needed.(£ÀÃ˜ùÿÿÿÿ8íİœÿÔ1
+z
+java:S1104"XMake STORES_TOPIC a static final constant or non-public and provide accessors if needed.(Šê™‡ıÿÿÿÿ8µÅšÿÔ1
+T
+java:S1444"2Make this "public static ORDERS_TOPIC" field final(£ÀÃ˜ùÿÿÿÿ8îİœÿÔ1
+T
+java:S1444"2Make this "public static STORES_TOPIC" field final(Šê™‡ıÿÿÿÿ8µÅšÿÔ1
+y
+java:S3008"WRename this field "ORDERS_TOPIC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ÀÃ˜ùÿÿÿÿ8üİœÿÔ1
+y
+java:S3008"WRename this field "STORES_TOPIC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šê™‡ıÿÿÿÿ8êûşÔ1
+]	java:S125o"<This block of commented-out lines of code should be removed.(õıá³úÿÿÿÿ8ÙñôËØ1
+]	java:S125u"<This block of commented-out lines of code should be removed.(¯•€ğøÿÿÿÿ8ûÖíËØ1
+P
+java:S1172®"2Remove this unused method parameter "storesTable".(¼Ã•ƒ8›êûşÔ1

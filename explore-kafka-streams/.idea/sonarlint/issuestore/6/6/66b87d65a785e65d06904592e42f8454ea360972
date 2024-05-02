@@ -1,0 +1,11 @@
+
+g
+java:S2095-"JUse try-with-resources or close this "KafkaStreams" in a "finally" clause.(¥•ÍÚ8áõ°õÏ1
+i
+java:S1854"GRemove this useless assignment to local variable "availableProcessors".(®ÅÕ‰ıÿÿÿÿ8ãõ°õÏ1
+Z
+java:S1481"8Remove this unused "availableProcessors" local variable.(®ÅÕ‰ıÿÿÿÿ8éõ°õÏ1
+]	java:S125"<This block of commented-out lines of code should be removed.(èÈ²“øÿÿÿÿ8éõ°õÏ1
+X	java:S125"<This block of commented-out lines of code should be removed.(„Œ §8éõ°õÏ1
+]	java:S125#"<This block of commented-out lines of code should be removed.(Õ€Ÿ£ùÿÿÿÿ8êõ°õÏ1
+W	java:S125("<This block of commented-out lines of code should be removed.(¢şù8êõ°õÏ1

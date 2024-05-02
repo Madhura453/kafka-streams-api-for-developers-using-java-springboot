@@ -1,0 +1,5 @@
+
+l
+java:S2259"JA "NullPointerException" could be thrown; "kafkaStreams" is nullable here.(ŠÎÙ©øÿÿÿÿ8œÏÎŽÚ1
+p
+java:S2259+"NA "NullPointerException" could be thrown; "getKafkaStreams()" can return null.(“Ñà»ûÿÿÿÿ8›ÏÎŽÚ1

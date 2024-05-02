@@ -1,0 +1,51 @@
+
+h	java:S112¿"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‚ÊºõØ1
+h	java:S112Â"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ƒÊºõØ1
+h	java:S112Ñ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ƒÊºõØ1
+h	java:S112Ô"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ƒÊºõØ1
+d
+java:S1192«"FDefine a constant instead of duplicating this literal "15.00" 4 times.(Ù¯¶û8ƒÊºõØ1
+i
+java:S1192Ÿ"FDefine a constant instead of duplicating this literal "12.00" 3 times.(òË®ûÿÿÿÿ8ƒÊºõØ1
+m
+java:S1192£"JDefine a constant instead of duplicating this literal "store_999" 3 times.(Õ“¹Éúÿÿÿÿ8ƒÊºõØ1
+j
+java:S1192 "GDefine a constant instead of duplicating this literal "Coffee" 3 times.(ˆœŒğıÿÿÿÿ8ƒÊºõØ1
+i
+java:S1192Ÿ"FDefine a constant instead of duplicating this literal "Pizza" 3 times.(òË®ûÿÿÿÿ8ƒÊºõØ1
+i
+java:S1192›"FDefine a constant instead of duplicating this literal "25.00" 3 times.(¬­È¨úÿÿÿÿ8ƒÊºõØ1
+i
+java:S1192¤"FDefine a constant instead of duplicating this literal "27.00" 7 times.(Ë–¨Õşÿÿÿÿ8ƒÊºõØ1
+k
+java:S1192š"HDefine a constant instead of duplicating this literal "Bananas" 3 times.(Õ• Åüÿÿÿÿ8ƒÊºõØ1
+n
+java:S1192Ë"KDefine a constant instead of duplicating this literal "store_1234" 4 times.(ÿ©îÚüÿÿÿÿ8ƒÊºõØ1
+i
+java:S1192Û"KDefine a constant instead of duplicating this literal "store_4567" 4 times.(ş÷ÀÊ8ƒÊºõØ1
+r
+java:S1192›"ODefine a constant instead of duplicating this literal "Iphone Charger" 3 times.(¬­È¨úÿÿÿÿ8ƒÊºõØ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üâ©×üÿÿÿÿ8…ÊºõØ1
+“
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78»ê¦ğÙ1
+X	java:S125"<This block of commented-out lines of code should be removed.(¡¡ÓĞ8ùáñÙ1
+X	java:S125-"<This block of commented-out lines of code should be removed.(ºó”¿8ÊºõØ1
+R
+java:S1172"4Remove this unused method parameter "localDateTime".(¶Ş±í8 ÊºõØ1
+B
+java:S3457"%String contains no format specifiers.(ñØ‡w8¡ÊºõØ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ñØ‡w8¡ÊºõØ1
+V	java:S106‘"9Replace this use of System.out or System.err by a logger.(ƒ¤‘8¢ÊºõØ1
+V	java:S106’"9Replace this use of System.out or System.err by a logger.(Îøã•8¢ÊºõØ1
+V
+java:S11443"9Remove this unused private "publishFutureRecords" method.(¾ÖÉ8©ÊºõØ1
+W
+java:S1144C":Remove this unused private "publishExpiredRecords" method.(×–«Ò8©ÊºõØ1
+b
+java:S1144U"@Remove this unused private "publishOrdersForGracePeriod" method.(˜­µ³ıÿÿÿÿ8©ÊºõØ1
+Z
+java:S1144"<Remove this unused private "publishRecordsWithDelay" method.(¶Ş±í8©ÊºõØ1
+\
+java:S1144—">Remove this unused private "buildOrdersForGracePeriod" method.(µã×‡8©ÊºõØ1
+Y
+java:S1144ª"6Remove this unused private "publishBulkOrders" method.(Ï¶ªÿÿÿÿÿÿ8©ÊºõØ1

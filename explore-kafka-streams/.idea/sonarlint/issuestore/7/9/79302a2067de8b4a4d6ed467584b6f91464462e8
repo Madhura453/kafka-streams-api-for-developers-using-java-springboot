@@ -1,0 +1,11 @@
+
+t
+java:S3008"WRename this field "STORES_TOPIC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÏ†ê8Ò¥›ýÒ1
+^
+java:S1854,"<Remove this useless assignment to local variable "address4".(ÑùçÇüÿÿÿÿ8Ô¥›ýÒ1
+Y
+java:S1854&"<Remove this useless assignment to local variable "address3".(«¼ûµ8Ô¥›ýÒ1
+J
+java:S1481&"-Remove this unused "address3" local variable.(«¼ûµ8ß¥›ýÒ1
+O
+java:S1481,"-Remove this unused "address4" local variable.(ÑùçÇüÿÿÿÿ8ß¥›ýÒ1

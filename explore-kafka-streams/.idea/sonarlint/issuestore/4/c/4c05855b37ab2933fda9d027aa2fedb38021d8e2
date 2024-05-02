@@ -1,0 +1,10 @@
+
+U
+java:S1118":Add a private constructor to hide the implicit public one.(æ¥ÿàüÿÿÿÿ
+d
+java:S1128"IRemove this unused import 'org.apache.kafka.common.serialization.Serdes'.(Ä¾†øÿÿÿÿ
+a
+java:S1128"FRemove this unused import 'org.apache.kafka.streams.kstream.Consumed'.(¢öâÁıÿÿÿÿ
+a
+java:S1128
+"FRemove this unused import 'org.apache.kafka.streams.kstream.Produced'.(°óëüúÿÿÿÿ

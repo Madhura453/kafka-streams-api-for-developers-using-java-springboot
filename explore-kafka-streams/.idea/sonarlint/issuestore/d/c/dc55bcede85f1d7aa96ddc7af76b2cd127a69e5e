@@ -1,0 +1,13 @@
+
+‡
+java:S1192"eDefine a constant instead of duplicating this literal "Published the alphabet message : {} " 5 times.(Üÿ¥Úúÿÿÿÿ8Ñ«‹Ğ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ÚÎÒÿÿÿÿÿ8¤¯‹Ğ1
+e
+java:S1854&"CRemove this useless assignment to local variable "recordMetaData4".(µêŞÿÿÿÿÿ8“Ñ«‹Ğ1
+`
+java:S1854#"CRemove this useless assignment to local variable "recordMetaData3".(øéâ8“Ñ«‹Ğ1
+X	java:S125"<This block of commented-out lines of code should be removed.(ĞÜÙ´8°÷‡Ğ1
+Q
+java:S1481#"4Remove this unused "recordMetaData3" local variable.(øéâ8”Ñ«‹Ğ1
+V
+java:S1481&"4Remove this unused "recordMetaData4" local variable.(µêŞÿÿÿÿÿ8•Ñ«‹Ğ1

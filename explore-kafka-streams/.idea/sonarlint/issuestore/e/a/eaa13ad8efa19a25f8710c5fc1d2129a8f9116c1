@@ -1,0 +1,17 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ï °“üÿÿÿÿ8¾… üÒ1
+f
+java:S2095"IUse try-with-resources or close this "AdminClient" in a "finally" clause.(×˜ 8Ê… üÒ1
+}	java:S116"\Rename this field "OrdersSourceTopic" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëêÊıÿÿÿÿ8Ê… üÒ1
+{	java:S116"_Rename this field "GENERAL_ORDERS_TOPIC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ŒŠÄ8Ê… üÒ1
+ƒ	java:S116"bRename this field "RESTAURANT_ORDERS_TOPIC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’©ÕÉıÿÿÿÿ8Ê… üÒ1
+t
+java:S3008"WRename this field "STORES_TOPIC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÏ†ê8Ê… üÒ1
+>
+java:S1170"!Make this final field static too.(×ŒŠÄ8Ê… üÒ1
+C
+java:S1170"!Make this final field static too.(’©ÕÉıÿÿÿÿ8Ê… üÒ1
+t
+java:S6204!"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(»ë…ôıÿÿÿÿ8Í… üÒ1
+{
+java:S2142&"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(åÅç“8Î… üÒ1

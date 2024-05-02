@@ -1,0 +1,12 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„ÜÆ8ŒùŽ÷Õ1
+t
+java:S3008"WRename this field "STORES_TOPIC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÏ†ê8”ùŽ÷Õ1
+I
+java:S1602=",Remove useless curly braces around statement(·«™¡8™ùŽ÷Õ1
+X	java:S125>"<This block of commented-out lines of code should be removed.(þÜ¯8™ùŽ÷Õ1
+N
+java:S1602C",Remove useless curly braces around statement(ÒÌâ–øÿÿÿÿ8™ùŽ÷Õ1
+X	java:S125D"<This block of commented-out lines of code should be removed.(•êÿÔ8šùŽ÷Õ1
+v
+java:S1144J"TRemove this unused private "joinAggregateOrdersByCountAndStoreByTimeWindows" method.(°³˜êùÿÿÿÿ8ŸùŽ÷Õ1

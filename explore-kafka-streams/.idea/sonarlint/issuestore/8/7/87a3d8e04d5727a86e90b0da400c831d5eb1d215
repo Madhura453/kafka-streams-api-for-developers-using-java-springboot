@@ -1,0 +1,47 @@
+
+s
+java:S1192%"QDefine a constant instead of duplicating this literal "alphabets_stream" 3 times.(…Ã•§ùÿÿÿÿ8áø…çÒ1
+¥
+java:S1192,"‡Define a constant instead of duplicating this literal "The 4th parameter is  type of the join params. Same like consumed with" 3 times.(Õ¾ø8âø…çÒ1
+±
+java:S1192)"Define a constant instead of duplicating this literal "The third parameter we need to pass kStream joining was join window. That is " 3 times.(ô´ÈÑüÿÿÿÿ8âø…çÒ1
+•
+java:S1192"sDefine a constant instead of duplicating this literal " primary one stream is alphabetsAbbreviationStream" 3 times.(ßóÅÄÿÿÿÿÿ8âø…çÒ1
+
+java:S1192@"pDefine a constant instead of duplicating this literal "alphabets_stream_alphabets_abbreviations_stream" 3 times.(±šÀ‡8âø…çÒ1
+|
+java:S1192 "_Define a constant instead of duplicating this literal "alphabets_abbreviations_stream" 3 times.(Ú…‘Í8âø…çÒ1
+|
+java:S1192*"ZDefine a constant instead of duplicating this literal "different from all joins " 3 times.(×—İÔıÿÿÿÿ8âø…çÒ1
+š
+java:S1192("}Define a constant instead of duplicating this literal "join window. Duration we can provide anything like 1hr 1 day" 3 times.(“Ùïï8âø…çÒ1
+q
+java:S11923"ODefine a constant instead of duplicating this literal "alphabets-join" 6 times.(ãïÏ÷ûÿÿÿÿ8âø…çÒ1
+˜
+java:S1192-"|Define a constant instead of duplicating this literal "What the 1) key 2) value of 1st topic 3) value of 2nd topic" 3 times.(’èßA8âø…çÒ1
+x
+java:S1104"[Make ALPHABETS_TOPIC a static final constant or non-public and provide accessors if needed.(ƒ÷ËÇ8ãø…çÒ1
+†
+java:S1104"iMake ALPHABETS_ABBREVIATIONS_TOPIC a static final constant or non-public and provide accessors if needed.(’ùÅ³8ãø…çÒ1
+R
+java:S1444"5Make this "public static ALPHABETS_TOPIC" field final(ƒ÷ËÇ8ãø…çÒ1
+`
+java:S1444"CMake this "public static ALPHABETS_ABBREVIATIONS_TOPIC" field final(’ùÅ³8ãø…çÒ1
+w
+java:S3008"ZRename this field "ALPHABETS_TOPIC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ÷ËÇ8ïø…çÒ1
+…
+java:S3008"hRename this field "ALPHABETS_ABBREVIATIONS_TOPIC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ùÅ³8ïø…çÒ1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(Ä×å»ÿÿÿÿÿ8–ù…çÒ1
+]	java:S125"<This block of commented-out lines of code should be removed.(Ó¹Ğùÿÿÿÿ8Ñ…’çÒ1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¯ö‹8›ù…çÒ1
+o	java:S100S"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şëÀÕÿÿÿÿÿ8¡ù…çÒ1
+>
+java:S1116k"Remove this empty statement.(Åñ­õşÿÿÿÿ8£ù…çÒ1
+p	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Äçàüÿÿÿÿ8£ù…çÒ1
+?
+java:S1116¦"Remove this empty statement.(Åñ­õşÿÿÿÿ8¥ù…çÒ1
+X
+java:S1144";Remove this unused private "JoinKStreamWithKStream" method.(Ì¯ö‹8×…’çÒ1
+a
+java:S1144S"?Remove this unused private "LeftJoinKStreamWithKStream" method.(şëÀÕÿÿÿÿÿ8¦ù…çÒ1

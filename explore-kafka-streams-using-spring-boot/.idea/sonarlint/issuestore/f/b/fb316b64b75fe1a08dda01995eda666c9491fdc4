@@ -1,0 +1,15 @@
+
+p
+java:S2259%"NA "NullPointerException" could be thrown; "getKafkaStreams()" can return null.(ÌÁáÁûÿÿÿÿ8¨„ˆ°Õ1
+p
+java:S2259"NA "NullPointerException" could be thrown; "getKafkaStreams()" can return null.(ÌÁáÁûÿÿÿÿ8ú“É§Õ1
+p
+java:S2259."NA "NullPointerException" could be thrown; "getKafkaStreams()" can return null.(ÌÁáÁûÿÿÿÿ8í†°Õ1
+p
+java:S22597"NA "NullPointerException" could be thrown; "getKafkaStreams()" can return null.(ÌÁáÁûÿÿÿÿ8ïÕÎ©Õ1
+…
+java:S1128"cRemove this unused import 'kafkastreamsbase.ordersdomain.domain.OrdersRevenuePerStoreByWindowsDTO'.(¤Œ„şüÿÿÿÿ8Òº‡°Õ1
+p
+java:S1128"NRemove this unused import 'org.apache.kafka.streams.state.QueryableStoreType'.(ëîùåÿÿÿÿÿ8ş¬„°Õ1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Òº‡°Õ1

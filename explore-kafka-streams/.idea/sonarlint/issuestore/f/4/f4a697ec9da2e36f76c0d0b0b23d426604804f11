@@ -1,0 +1,10 @@
+
+w
+java:S1104"[Make AGGREGATE_TOPIC a static final constant or non-public and provide accessors if needed.(ìöÕ(8ıı²Ğ1
+Q
+java:S1444"5Make this "public static AGGREGATE_TOPIC" field final(ìöÕ(8ıı²Ğ1
+v
+java:S3008"ZRename this field "AGGREGATE_TOPIC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìöÕ(8€ş²Ğ1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(‘ìà÷8€ş²Ğ1
+]	java:S125"<This block of commented-out lines of code should be removed.(›Ôæöşÿÿÿÿ8ƒş²Ğ1
